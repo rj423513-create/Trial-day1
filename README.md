@@ -5,4 +5,6 @@ Author - Rudra
 <br>
 I'm learning github , how to commit changes?<br>
 #Day2
- Working as devloper intern at jeenweb
+ Working as web devloper intern at jeenweb and get my first project.<br>
+#Day3
+ Working on project (website domain analyser agent).<br>
