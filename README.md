@@ -12,5 +12,6 @@ I'm learning github , how to commit changes?<br>
 #Day4
  Adding seo details of that website in my project.<br>
 #Day5
- Try to make it presentable to others.<br>
-
+ Adding website design issues like runtime of page.<br>
+#Day6
+ Making it quicker and summarise it in excel sheets.<br>
