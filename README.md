@@ -15,3 +15,5 @@ I'm learning github , how to commit changes?<br>
  Adding website design issues like runtime of page.<br>
 #Day6
  Making it quicker and summarise it in excel sheets.<br>
+#Day7
+ Do nothing it's sunday😅.
