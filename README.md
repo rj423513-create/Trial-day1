@@ -18,4 +18,14 @@ I'm learning github , how to commit changes?<br>
 #Day7
  Do nothing it's sunday😅.<br>
 #Day8
- Adding field which are useful and required for web developer.
+ Adding field which are useful and required for web developer.<br>
+#Day9
+ Searching for free websites that gives data of any website.<br>
+#Day10
+ Try to implement them in my project.<br>
+#Day11
+ Learning and preparing for quiz.<br>
+#Day12
+ Giving quize and chill.<br>
+
+#Day13
